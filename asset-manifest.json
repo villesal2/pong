@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pong/static/css/main.4516a160.css",
-    "main.js": "/pong/static/js/main.f3078f65.js",
+    "main.css": "/pong/static/css/main.40ef42fa.css",
+    "main.js": "/pong/static/js/main.a1f7a218.js",
     "static/js/453.ccfdfd8d.chunk.js": "/pong/static/js/453.ccfdfd8d.chunk.js",
     "index.html": "/pong/index.html",
-    "main.4516a160.css.map": "/pong/static/css/main.4516a160.css.map",
-    "main.f3078f65.js.map": "/pong/static/js/main.f3078f65.js.map",
+    "main.40ef42fa.css.map": "/pong/static/css/main.40ef42fa.css.map",
+    "main.a1f7a218.js.map": "/pong/static/js/main.a1f7a218.js.map",
     "453.ccfdfd8d.chunk.js.map": "/pong/static/js/453.ccfdfd8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4516a160.css",
-    "static/js/main.f3078f65.js"
+    "static/css/main.40ef42fa.css",
+    "static/js/main.a1f7a218.js"
   ]
 }
