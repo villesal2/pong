@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pong/static/css/main.e6c13ad2.css",
+    "main.js": "/pong/static/js/main.f3078f65.js",
+    "static/js/453.ccfdfd8d.chunk.js": "/pong/static/js/453.ccfdfd8d.chunk.js",
+    "index.html": "/pong/index.html",
+    "main.e6c13ad2.css.map": "/pong/static/css/main.e6c13ad2.css.map",
+    "main.f3078f65.js.map": "/pong/static/js/main.f3078f65.js.map",
+    "453.ccfdfd8d.chunk.js.map": "/pong/static/js/453.ccfdfd8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f3078f65.js"
+  ]
+}
